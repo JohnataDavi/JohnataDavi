@@ -18,7 +18,7 @@
 ---
 
 <details>
-  <summary>ℹ️ &nbsp; Click for more information:</summary>
+  <summary>📜 <b>Click for more information</b></summary>
   
 ## 📖 About Me
 - 💻 &nbsp; I’m currently working on **Prefeitura de Itabira**
