@@ -30,6 +30,7 @@
 <br>
 
 ## 🛠️ Languages and Tools
+ <a href="https://github.com/JohnataDavi target="_blank">
 <code><img target="_blank" height="28" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
@@ -41,19 +42,25 @@
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429359-21b0d300-79da-11eb-800a-59e77f2c0af7.png" alt="android"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429225-67b96700-79d9-11eb-8121-636ecda4679f.png" alt="git"></code>
-
+</a>
 <br>
 
 ## 📊 Github Stats
-<p align="center"> 
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=JohnataDavi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnataDavi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=dracula" />
+<p align="center">
+  <a href="https://github.com/JohnataDavi" target="_blank">
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=JohnataDavi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  </a>
+    <a href="https://github.com/JohnataDavi" target="_blank">
+      <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnataDavi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </p>
 
 ---
 
 <p align="center"> 
   <b>If you think my job is good, consider giving him a ⭐. It motivates me a lot and shows that I am on the right path</b>.<br>
-  <img height="130px" src="https://user-images.githubusercontent.com/26368939/109428013-c845a580-79d3-11eb-9915-9a4a7181d755.gif" />
+  <a href="https://myanimelist.net/profile/JohnataDavi" target="_blank">
+    <img height="130px" src="https://user-images.githubusercontent.com/26368939/109428013-c845a580-79d3-11eb-9915-9a4a7181d755.gif" />
+  </a
 </p>
 </details>
