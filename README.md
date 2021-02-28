@@ -20,16 +20,16 @@
 <details>
   <summary>ℹ️ &nbsp; Click for more information:</summary>
   
-## 🔍 About Me:
+## 📖 About Me
 - 💻 &nbsp; I’m currently working on **Prefeitura de Itabira**
-- 🌱 &nbsp; I’m currently learning Laravel/Vue.js; 
+- 🌱 &nbsp; I’m currently learning Laravel/Vue.js
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JohnataDavi?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 <br>
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 <code><img target="_blank" height="28" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
