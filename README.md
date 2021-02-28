@@ -30,18 +30,18 @@
 <br>
 
 ## 🛠️ Languages and Tools
- <a href="https://github.com/JohnataDavi target="_blank">
-<code><img target="_blank" height="28" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429172-2b860680-79d9-11eb-9139-fdb7febae165.png" alt="cpp"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429268-9c2d2300-79d9-11eb-9305-943b9988abf2.png" alt="myslq"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429359-21b0d300-79da-11eb-800a-59e77f2c0af7.png" alt="android"></code>
-<code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429225-67b96700-79d9-11eb-8121-636ecda4679f.png" alt="git"></code>
+<a href="https://github.com/JohnataDavi" target="_blank">
+  <code><img target="_blank" height="28" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429172-2b860680-79d9-11eb-9139-fdb7febae165.png" alt="cpp"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429268-9c2d2300-79d9-11eb-9305-943b9988abf2.png" alt="myslq"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429359-21b0d300-79da-11eb-800a-59e77f2c0af7.png" alt="android"></code>
+  <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429225-67b96700-79d9-11eb-8121-636ecda4679f.png" alt="git"></code>
 </a>
 <br>
 
