@@ -42,6 +42,7 @@
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
   <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429359-21b0d300-79da-11eb-800a-59e77f2c0af7.png" alt="android"></code>
   <code><img height="28" src="https://user-images.githubusercontent.com/26368939/109429225-67b96700-79d9-11eb-8121-636ecda4679f.png" alt="git"></code>
+  <br>
 </a>
 
 <br>
