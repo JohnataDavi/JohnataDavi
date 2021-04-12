@@ -63,7 +63,7 @@
 ---
 
 <p align="center"> 
-  <b>If you think my job is good, consider giving him a ⭐. It motivates me a lot and shows that I am on the right path</b>.<br>
+  <b>If you think my job is good, consider giving it a ⭐. It motivates me a lot and shows that I am on the right path</b>.<br>
   <a href="https://myanimelist.net/profile/JohnataDavi" target="_blank">
     <img height="130px" src="https://user-images.githubusercontent.com/26368939/109428013-c845a580-79d3-11eb-9915-9a4a7181d755.gif" />
   </a
