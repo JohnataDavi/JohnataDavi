@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/johnatadavi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/12068275/johnata-davi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
   <a href="https://www.instagram.com/johnatadavi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <!--<img src="https://visitor-badge.glitch.me/badge?page_id=JohnataDavi.JohnataDavi" alt="johnatadavi" />-->
   <a href="https://github.com/JohnataDavi" target="_blank"><img alt="johnatadavi" src="https://badges.pufler.dev/visits/JohnataDavi/JohnataDavi?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
@@ -22,8 +21,8 @@
   <summary>📜 <b>Click</b></summary>
   
 ## 📖 About Me
-- 💻 &nbsp; Working on **Prefeitura de Itabira**
-- 🌱 &nbsp; Learning **Laravel/Vue.js**
+- 💻 &nbsp; Working on **[Audaz Tecnologia](https://audaztec.com.br/)**
+- 🌱 &nbsp; Learning **[Laravel](https://laravel.com/docs/)**/**[Vue.js](https://vuejs.org/v2/guide/)**
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JohnataDavi?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
@@ -34,8 +33,8 @@
 <a href="https://github.com/JohnataDavi" target="_blank">
   <code><img target="_blank" height="22" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
   <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs"></code>
+  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
   <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429172-2b860680-79d9-11eb-9139-fdb7febae165.png" alt="cpp"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
