@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/johnatadavi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/12068275/johnata-davi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
   <a href="https://www.instagram.com/johnatadavi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/JohnataDavi" target="_blank"><img alt="johnatadavi" src="https://badges.pufler.dev/visits/JohnataDavi/JohnataDavi?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
 ---
