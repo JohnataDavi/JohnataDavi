@@ -20,8 +20,6 @@
   <summary>📜 <b>Click</b></summary>
   
 ## 📖 About Me
-- 💻 &nbsp; Working on **[Audaz Tecnologia](https://audaztec.com.br/)**
-- 🌱 &nbsp; Learning **[Laravel](https://laravel.com/docs/)**/**[Vue.js](https://vuejs.org/v2/guide/)**
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JohnataDavi?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
